@@ -21,3 +21,5 @@ console.log(name);
 var married=true;
 var others=false;
 console.log(married,others);
+
+// 3. naming convention and keyword
